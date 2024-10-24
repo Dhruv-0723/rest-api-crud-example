@@ -1,0 +1,7 @@
+com\howtodoinjava\App.class
+com\howtodoinjava\web\errors\ErrorResponse.class
+com\howtodoinjava\web\ItemController.class
+com\howtodoinjava\web\errors\ApplicationExceptionHandler.class
+com\howtodoinjava\web\errors\ItemNotFoundException.class
+com\howtodoinjava\dao\model\Item.class
+com\howtodoinjava\dao\model\ItemRepository.class
